@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../Campus bazaar"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CampusBazzar-main",
+		"liveServer.settings.port": 5501
+	}
+}
